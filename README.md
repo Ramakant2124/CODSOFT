@@ -4,5 +4,8 @@ Welcome to the CodeSoft Internship Tasks repository This repository contains the
 ### Screenshot:
 ![Screenshot 2025-07-02 221432](https://github.com/user-attachments/assets/b5f87a71-e34c-4622-89ee-3b9fd8da8b95)
 
+## TASK 2 : Simaple Calculator
+### Screenshot:
+![image](https://github.com/user-attachments/assets/bd3eb115-ccf0-4b33-8656-38422d055645)
 
 ## Ramakant Chaudhari
