@@ -8,4 +8,8 @@ Welcome to the CodeSoft Internship Tasks repository This repository contains the
 ### Screenshot:
 ![image](https://github.com/user-attachments/assets/bd3eb115-ccf0-4b33-8656-38422d055645)
 
+## TASK 2 : Password Generator
+### Screenshot:
+![Screenshot 2025-07-09 164048](https://github.com/user-attachments/assets/77ab5917-fd87-45e8-bd7a-c929ba949878)
+
 ## Ramakant Chaudhari
